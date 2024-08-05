@@ -18,7 +18,9 @@ We analyzed Korean Americans in New York and New Jersey, created a dashboard, an
 ## Dashboard
 
 [New York](https://public.tableau.com/app/profile/jinsol.lee5333/viz/NYC_Voters_2022/NewYorkElections) <br>
-[New Jersey](https://public.tableau.com/app/profile/jinsol.lee5333/viz/NewJersey_Koreanvote/12)
+[New Jersey](https://public.tableau.com/app/profile/jinsol.lee5333/viz/NewJersey_Koreanvote/12) <br>
+<img width="400" alt="dashboard" src="https://github.com/user-attachments/assets/dcfa55ef-8317-4d98-b792-e25735cbe31f">
+
 
 ## Publication
 
