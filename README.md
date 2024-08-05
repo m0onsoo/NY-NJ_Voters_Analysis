@@ -1,4 +1,4 @@
-# NYCvoters
+# NY-NJ_Voters_Analysis
 
 [NJCU SCM](https://sites.google.com/view/njcuscm/) and [KACE](https://kace.org/) collaborate to analyze Korean voter turnout in New York/New Jersey  
 
