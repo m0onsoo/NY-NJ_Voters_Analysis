@@ -1,6 +1,10 @@
 # NYCvoters
 
-[NJCU SCM](https://sites.google.com/view/njcuscm/) and [KACE](https://kace.org/) collaborate to analyze Korean voter turnout in New York/New Jersey
+[NJCU SCM](https://sites.google.com/view/njcuscm/) and [KACE](https://kace.org/) collaborate to analyze Korean voter turnout in New York/New Jersey  
+
+<img src="https://github.com/user-attachments/assets/61d742de-7c90-4eff-80c6-c4c942d3c8b4" alt="NJCU_WebsiteHeader" width="270"/>
+<img src="https://github.com/user-attachments/assets/84620feb-86e7-4f9c-bbd3-3ad1d85e7a82" alt="KACE_Logo_white-big" width="225"/>
+
 
 ## Background 🇰🇷 🇺🇸
 
