@@ -18,6 +18,10 @@ We analyzed Korean Americans in New York and New Jersey, created a dashboard, an
 - Since nationality was not indicated in the data provided by KACE, it was necessary to develop an algorithm to extract only Koreans.
 - Extraction was conducted based on a rule base, and a table of Korean surnames and first names was created to extract matching people.
 - After extraction, a post-process was conducted with expert feedback.
+- For security reasons, only pseudo code can be disclosed.
+
+<img width="470" alt="Pseudo code" src="https://github.com/user-attachments/assets/497a6a05-5313-4958-acfd-b251bcb915bd">
+
 
 ## Dashboard
 
